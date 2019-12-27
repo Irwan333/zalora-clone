@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import Navbar from './component/home/Navbar';
 import Penawaran from './component/home/Penawaran';
 import Anak from './component/home/Anak';
